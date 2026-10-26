@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Catherina 👋
 
-<!--
-**CatNolaPumpkin/CatNolaPumpkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Published author and self-taught full-stack builder.
 
-Here are some ideas to get you started:
+## What I'm building: GriotBoard
+**[griotboard.com](https://griotboard.com)** is a publishing platform for indie authors, established authors and small presses. It takes a book from first idea to bookshelf in one place, and authors always keep ownership of their work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Write:** a manuscript editor with chapters, pictures, footnotes, citations, and screenplay and stage-play formats
+- **Shape:** editor and illustrator collaboration, storyboards, and a rights agreement illustrators sign before they join
+- **Publish:** print-ready PDF and EPUB export, ISBN and metadata guides, a contract checker, and a budget and break-even planner
+- **Launch:** launch plans, advance reader teams, a press kit and author page, sell sheets, and appearance and school-visit planning
+- **Grow:** reader email lists, presales, sales and stock tracking, and community event pages
+
+Privacy comes first: authors' words are never used to train AI.
+
+## Tech
+React · TypeScript · Supabase (PostgreSQL, auth, storage, Edge Functions, row-level security) · Stripe · Cloudflare Pages · Resend
+
+## Get in touch
+🌐 [griotboard.com/catherina](https://griotboard.com/catherina/)
